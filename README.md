@@ -8,7 +8,9 @@
 
 `=> cd sharingengine`
 
-`=> git pull origin sharingengine`
+`=> git checkout develop`
+
+`=> git pull origin develop`
  
 3.Composer Install
 
