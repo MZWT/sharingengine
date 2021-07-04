@@ -48,7 +48,7 @@
 
 7.Running React App 
 
-`=> cd ..(repeatly run until to php files and run (exit) to enter project sharingengine.)`
+`=> cd ..(repeatly run until to reach end of php files and run (exit) to enter project sharingengine.)`
 
 `=> cd react-app`
 
