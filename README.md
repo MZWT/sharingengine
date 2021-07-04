@@ -24,6 +24,8 @@
 
 `=> sudo mv composer.phar /usr/local/bin/composer`
 
+`=> composer laravel-app`
+
 `=> composer install`
 
 4.Create/start container in docker
