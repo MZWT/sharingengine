@@ -2,7 +2,7 @@
 
 1.Cloning project to PC
 
-`=> git clone https://github.com/mimiko552/laravel-react-ojt.git`
+`=> https://github.com/MZWT/sharingengine.git`
 
 2.Pull source from develop
 
@@ -38,7 +38,7 @@
 
 `=> docker-compose exec app bash`
 
-`=> cd lararavel-app`
+`=> cd laravel-app`
 
 `=> php artisan migrate`
 
