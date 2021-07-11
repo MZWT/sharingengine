@@ -2,33 +2,36 @@
 
 1.Cloning project to PC
 
-`=> https://github.com/MZWT/sharingengine.git`
+`https://github.com/MZWT/sharingengine.git`
+
+1.1 from terminal or command line, run the following command
+ `git clone https://github.com/MZWT/sharingengine.git`
 
 2.Pull source from develop
 
-`=> cd sharingengine`
+`cd sharingengine`
 
-`=> git checkout develop`
+`git checkout develop`
 
-`=> git pull origin develop`
+`git pull origin develop`
 
 3.Add .env file in sharingengine>laravel-app>.env
 
-`=> cp laravel-app/.env.local laravel-app/.env`
+`cp laravel-app/.env.local laravel-app/.env`
  
 4.Create/start container in docker
 
-`=> docker-compose up -d`
+`docker-compose up -d`
 
 5.Enter to PHP container & Laravel App and run migrate command
 
-`=> docker-compose exec app bash`
+`docker-compose exec app bash`
 
-`=> cd laravel-app`
+`cd laravel-app`
 
-`=> composer install`
+`composer install`
 
-`=> php artisan migrate`
+`php artisan migrate`
 
 6.Run laravel app on browser
 
@@ -36,23 +39,26 @@
 
 7.If you do not have Node.js installed, Please download & install (if already install can skip this step.)
 
-`Can check Node install condition by running => node -v`
+Can check Node install condition by running
 
-`download link => https://nodejs.org/en/`
+`node -v`
 
-`reference link for installing on mac =>　https://qiita.com/non0311/items/664cf74d9ff4bad9cf46`
+[manually download link](https://nodejs.org/en/)
 
-`reference link for installing on window => https://phoenixnap.com/kb/install-node-js-npm-on-windows`
+[reference link for installing on mac](https://qiita.com/non0311/items/664cf74d9ff4bad9cf46)
+
+
+[reference link for installing on window](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
 
 8.Running React App
 
-`=> exit`
+`exit`
 
-`=> cd react-app`
+`cd react-app`
 
-`=> npm install`
+`npm install`
 
-`=> npm start`
+`npm start`
 
 7.Run React app on browser
 
