@@ -1,11 +1,10 @@
 # Sharingengine
 
 1.Cloning project to PC
-
-```https://github.com/MZWT/sharingengine.git```
-
-1.1 from terminal or command line, run the following command
- ```git clone https://github.com/MZWT/sharingengine.git```
+from terminal or command line, run the following command
+ ```
+ git clone https://github.com/MZWT/sharingengine.git
+ ```
 
 2.Pull source from develop
 ```
@@ -15,12 +14,14 @@ git pull origin develop
 ```
 
 3.Add .env file in sharingengine>laravel-app>.env
-
-```cp laravel-app/.env.local laravel-app/.env```
+```
+cp laravel-app/.env.local laravel-app/.env
+```
  
 4.Create/start container in docker
-
-```docker-compose up -d```
+```
+docker-compose up -d
+```
 
 5.Enter to PHP container & Laravel App and run migrate command
 ```
