@@ -14,7 +14,7 @@
 
 3.Add .env file in sharingengine>laravel-app>.env
   1.create .env file under sharingengine>laravel-app>
-  2.please copy source from .env.example file to .env file
+  2.please copy source from .env_local file to .env file
  
 4.Create/start container in docker
 
