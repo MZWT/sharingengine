@@ -42,6 +42,8 @@ Can check Node install condition by running
 
 ```node -v```
 
+node version : v15.11.0 is suggested for this project.
+
 [manually download link](https://nodejs.org/en/)
 
 [reference link for installing on mac](https://qiita.com/non0311/items/664cf74d9ff4bad9cf46)
