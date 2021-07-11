@@ -34,6 +34,16 @@
 
 `http://localhost:8000/`
 
+7.If you do not have Node.js installed, Please download & install 
+
+`Can check Node install condition by running => node -v`
+
+`download link => https://nodejs.org/en/`
+
+`reference link for installing on mac =>　https://qiita.com/non0311/items/664cf74d9ff4bad9cf46`
+
+`reference link for installing on window => https://phoenixnap.com/kb/install-node-js-npm-on-windows`
+
 7.Running React App
 
 `=> exit`
