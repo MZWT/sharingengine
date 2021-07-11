@@ -34,9 +34,7 @@
 
 `http://localhost:8000/`
 
-7.Running React App 
-
-`=> cd ..(repeatly run(4 times))`
+7.Running React App
 
 `=> exit`
 
