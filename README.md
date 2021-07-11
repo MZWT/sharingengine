@@ -34,7 +34,7 @@
 
 `http://localhost:8000/`
 
-7.If you do not have Node.js installed, Please download & install 
+7.If you do not have Node.js installed, Please download & install (if already install can skip this step.)
 
 `Can check Node install condition by running => node -v`
 
@@ -44,7 +44,7 @@
 
 `reference link for installing on window => https://phoenixnap.com/kb/install-node-js-npm-on-windows`
 
-7.Running React App
+8.Running React App
 
 `=> exit`
 
