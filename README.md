@@ -13,8 +13,7 @@
 `=> git pull origin develop`
 
 3.Add .env file in sharingengine>laravel-app>.env
-  1.create .env file under sharingengine>laravel-app>
-  2.please copy source from .env_local file to .env file
+`=> cp laravel-app/.env.example laravel-app/.env`
  
 4.Create/start container in docker
 
