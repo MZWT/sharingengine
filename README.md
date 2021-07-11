@@ -16,7 +16,7 @@
 
 `=> docker-compose up -d`
 
-5.Enter to PHP container & Laravel App and run migrate command
+4.Enter to PHP container & Laravel App and run migrate command
 
 `=> docker-compose exec app bash`
 
@@ -26,11 +26,11 @@
 
 `=> php artisan migrate`
 
-6.Run laravel app on browser
+5.Run laravel app on browser
 
 `http://localhost:8000/`
 
-7.Running React App 
+6.Running React App 
 
 `=> cd ..(repeatly run(4 times))`
 
@@ -42,6 +42,6 @@
 
 `=> npm start`
 
-8.Run React app on browser
+7.Run React app on browser
 
 `http://localhost:3000/`
